@@ -1,4 +1,4 @@
-# MVP - GESTÇAO ÁGIL DE PROJETOS E PRODUTOS
+# MVP - GESTÃO ÁGIL DE PROJETOS E PRODUTOS
 
 O .Finance é uma plataforma de gestão financeira pessoal projetada para simplificar o controle das finanças dos usuários, oferecendo uma experiência intuitiva e abrangente para o registro, acompanhamento e análise de entradas e saídas financeiras.
 
